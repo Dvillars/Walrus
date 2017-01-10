@@ -1,0 +1,15 @@
+#walrus-showing {
+  display: none;
+}
+#fade-in {
+  display: none;
+}
+
+.clickable, .fact-click {
+  color: blue;
+  text-decoration: underline;
+}
+
+.clickable:hover, .fact-click:hover {
+  color: green;
+}
