@@ -13,3 +13,16 @@
 .clickable:hover, .fact-click:hover {
   color: green;
 }
+
+
+.green-bg {
+  background-color: #37b23f;
+}
+
+.yellow-bg {
+  background-color: #e5d997;
+}
+
+.red-bg {
+  background-color: #b23817;
+}
